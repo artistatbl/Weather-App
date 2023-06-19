@@ -1,9 +1,9 @@
-var loader = document.getElementById('preloader');
+// var loader = document.getElementById('preloader');
 
-window.addEventListener("load", function () {
-  loader.style.display = "none";
+// window.addEventListener("load", function () {
+//   loader.style.display = "none";
 
-})
+
 const api = {
   key: "31515bb41be448fe95f05832230405",
   base: "https://api.weatherapi.com/v1"
